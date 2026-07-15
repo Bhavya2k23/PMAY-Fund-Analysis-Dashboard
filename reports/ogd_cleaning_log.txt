@@ -1,0 +1,33 @@
+Original Shape: (270699, 14)
+Removed unnamed columns: ['unnamed: 13']
+Standardized state names in column: 'state_name'
+Duplicate rows removed: 34
+
+[Before fill] Missing values:
+district_code        70
+block_code         3033
+panchayat_code    21121
+panchayat_name        1
+'minority' kept as text — non-numeric values found: <ArrowStringArray>
+['ELPANG', '4 RSM']
+Length: 2, dtype: str
+
+[After fill] Missing values:
+  None
+
+Final Shape: (270665, 13)
+
+Final Data Types:
+state_code        Int64
+state_name          str
+district_code     Int64
+district_name       str
+block_code        Int64
+block_name          str
+panchayat_code    Int64
+panchayat_name      str
+minority            str
+others            Int64
+sc                Int64
+st                Int64
+total             Int64

@@ -1,0 +1,125 @@
+======================================================================
+PMAY FUND ANALYSIS - EXPLORATORY DATA ANALYSIS
+======================================================================
+
+======================================================================
+1. BASIC OVERVIEW
+======================================================================
+Rows : 34
+Columns : 10
+['state_name', 'sc', 'st', 'others', 'total', 'panchayat_block_count', 'serial_no', 'funds_released_crore', 'funds_utilized_crore', 'fund_utilization_percent']
+
+Missing Values:
+None
+
+======================================================================
+2. DESCRIPTIVE STATISTICS
+======================================================================
+               sc          st      others       total  panchayat_block_count  serial_no  funds_released_crore  funds_utilized_crore  fund_utilization_percent
+count       34.00       34.00       34.00       34.00                  34.00      34.00                 34.00                 34.00                     34.00
+mean    254092.53   257807.32   595836.00  1270448.44                7960.74      17.50               4467.46               6401.79                    133.21
+std     461682.25   448318.18   937121.64  1907597.26               11479.93       9.96               6581.50               9493.67                    112.26
+min          0.00        0.00        0.00        0.00                  10.00       1.00                  0.00                  0.00                      0.00
+25%         96.25     4111.00     1142.75    31444.75                1033.50       9.25                151.57                255.11                    102.68
+50%      39280.00    43462.00    55433.50   198286.50                4475.50      17.50                669.42                807.41                    119.90
+75%     341016.25   352728.25   877876.25  2135520.75               10724.75      25.75               6621.21              10604.84                    153.42
+max    2198616.00  2060311.00  3391215.00  6811144.00               60234.00      34.00              23686.98              33025.00                    687.34
+
+======================================================================
+3. FUND UTILIZATION
+======================================================================
+Funds Released : 151,893.63
+Funds Utilized : 217,660.71
+Overall Utilization : 143.30%
+
+Top 5 Fund Utilization %
+                              state_name  fund_utilization_percent
+Dadra And Nagar Haveli And Daman And Diu                    687.34
+                                  Kerala                    241.72
+                               Rajasthan                    181.70
+                             West Bengal                    175.61
+                                   Bihar                    168.73
+
+Bottom 5 Fund Utilization %
+         state_name  fund_utilization_percent
+Andaman And Nicobar                     74.16
+        Lakshadweep                      0.00
+                Goa                      0.00
+         Puducherry                      0.00
+          Telangana                      0.00
+
+======================================================================
+4. BENEFICIARY DISTRIBUTION
+======================================================================
+SC : 8,639,146 (20.00%)
+ST : 8,765,449 (20.29%)
+OTHERS : 20,258,424 (46.90%)
+
+Top 5 Total Beneficiaries
+    state_name   total
+   West Bengal 6811144
+Madhya Pradesh 5828889
+         Bihar 5069485
+   Maharashtra 4937607
+ Uttar Pradesh 3452196
+
+Bottom 5 Total Beneficiaries
+ state_name  total
+     Ladakh   2978
+        Goa    499
+Lakshadweep     70
+ Puducherry      0
+  Telangana      0
+
+Top 5 SC Share %
+      state_name  sc_share_pct
+          Punjab         77.25
+         Haryana         49.70
+      Tamil Nadu         37.78
+   Uttar Pradesh         35.89
+Himachal Pradesh         35.13
+
+Bottom 5 SC Share %
+       state_name  sc_share_pct
+Arunachal Pradesh           0.0
+      Lakshadweep           0.0
+         Nagaland           0.0
+       Puducherry           0.0
+        Telangana           0.0
+
+Top 5 ST Share %
+                              state_name  st_share_pct
+                             Lakshadweep        100.00
+                                  Ladakh         99.73
+                                 Mizoram         99.37
+                                Nagaland         99.33
+Dadra And Nagar Haveli And Daman And Diu         98.53
+
+Bottom 5 ST Share %
+         state_name  st_share_pct
+            Haryana          0.76
+             Punjab          0.58
+Andaman And Nicobar          0.28
+         Puducherry          0.00
+          Telangana          0.00
+
+======================================================================
+5. CORRELATION
+======================================================================
+                            sc    st  others  total  panchayat_block_count  serial_no  funds_released_crore  funds_utilized_crore  fund_utilization_percent
+sc                        1.00  0.50    0.71   0.89                   0.48       0.03                  0.61                  0.71                      0.13
+st                        0.50  1.00    0.66   0.72                   0.32      -0.24                  0.62                  0.61                      0.07
+others                    0.71  0.66    1.00   0.93                   0.55      -0.22                  0.79                  0.86                      0.11
+total                     0.89  0.72    0.93   1.00                   0.48      -0.17                  0.80                  0.86                      0.12
+panchayat_block_count     0.48  0.32    0.55   0.48                   1.00       0.00                  0.48                  0.55                      0.05
+serial_no                 0.03 -0.24   -0.22  -0.17                   0.00       1.00                 -0.37                 -0.31                      0.06
+funds_released_crore      0.61  0.62    0.79   0.80                   0.48      -0.37                  1.00                  0.97                      0.06
+funds_utilized_crore      0.71  0.61    0.86   0.86                   0.55      -0.31                  0.97                  1.00                      0.10
+fund_utilization_percent  0.13  0.07    0.11   0.12                   0.05       0.06                  0.06                  0.10                      1.00
+
+======================================================================
+6. KEY INSIGHTS
+======================================================================
+Highest utilization : Dadra And Nagar Haveli And Daman And Diu (687.34%)
+Lowest utilization : Goa (0.00%)
+Highest beneficiaries : West Bengal (6,811,144)

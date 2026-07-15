@@ -1,0 +1,9 @@
+Original Shape: (35, 4)
+Duplicate rows removed: 0
+
+[Before fill] Missing values:
+  None
+
+[After fill] Missing values:
+  None
+⚠️  26 state(s) show utilization > 100%: ['Arunachal Pradesh', 'Assam', 'Bihar', 'Chhattisgarh', 'Gujarat', 'Haryana', 'Jammu And Kashmir', 'Jharkhand', 'Kerala', 'Madhya Pradesh', 'Maharashtra', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Punjab', 'Rajasthan', 'Sikkim', 'Tamil Nadu', 'Tripura', 'Uttar Pradesh', 'Uttarakhand', 'West Bengal', 'Dadra And Nagar Haveli And Daman And Diu', 'Andhra Pradesh', 'Karnataka']

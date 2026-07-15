@@ -1,0 +1,12 @@
+FEATURE ENGINEERING LOG
+==================================================
+
+Fund Gap Created
+Utilization Category Created
+Beneficiary Rank Created
+Fund Release Rank Created
+Fund Utilized Rank Created
+Beneficiary Density Created
+High Fund Release Flag Created
+High Beneficiary Flag Created
+Performance Category Created

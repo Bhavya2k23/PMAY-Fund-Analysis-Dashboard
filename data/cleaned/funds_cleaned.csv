@@ -1,0 +1,35 @@
+serial_no,state_name,funds_released_crore,funds_utilized_crore,fund_utilization_percent
+1,Arunachal Pradesh,376.04,422.05,112.24
+2,Assam,23686.98,24301.88,102.6
+3,Bihar,19572.62,33025.0,168.73
+4,Chhattisgarh,7703.99,9827.13,127.56
+5,Goa,0.0,1.98,0.0
+6,Gujarat,3653.56,5274.51,144.37
+7,Haryana,191.02,248.91,130.31
+8,Himachal Pradesh,1052.29,876.16,83.26
+9,Jammu And Kashmir,3474.43,3725.51,107.23
+10,Jharkhand,6835.27,11293.72,165.23
+11,Kerala,138.42,334.59,241.72
+12,Madhya Pradesh,19969.61,28124.72,140.84
+13,Maharashtra,10001.76,13711.25,137.09
+14,Manipur,653.12,544.6,83.38
+15,Meghalaya,1978.91,2089.92,105.61
+16,Mizoram,258.5,273.72,105.89
+17,Nagaland,476.38,529.93,111.24
+18,Odisha,10652.47,16345.25,153.44
+19,Punjab,411.63,448.91,109.06
+20,Rajasthan,5979.04,10864.07,181.7
+21,Sikkim,3.12,4.71,150.96
+22,Tamil Nadu,3207.25,4918.06,153.34
+23,Tripura,4228.06,4350.87,102.9
+24,Uttar Pradesh,16086.31,26961.4,167.6
+25,Uttarakhand,685.72,738.66,107.72
+26,West Bengal,9498.38,16679.8,175.61
+27,Andaman And Nicobar,22.33,16.56,74.16
+28,Dadra And Nagar Haveli And Daman And Diu,16.12,110.8,687.34
+29,Lakshadweep,0.0,0.01,0.0
+30,Puducherry,0.0,0.0,0.0
+31,Andhra Pradesh,425.75,679.79,159.67
+32,Karnataka,632.56,915.64,144.75
+33,Telangana,0.0,0.0,0.0
+34,Ladakh,21.99,20.6,93.68

@@ -6,7 +6,6 @@ __pycache__/
 .streamlit/secrets.toml
 
 *.xlsx
-*.csv
 *.zip
 
 .idea/

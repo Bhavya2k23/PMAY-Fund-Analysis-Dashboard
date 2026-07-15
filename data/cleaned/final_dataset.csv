@@ -1,0 +1,35 @@
+state_name,sc,st,others,total,panchayat_block_count,serial_no,funds_released_crore,funds_utilized_crore,fund_utilization_percent,fund_gap_crore,utilization_category,beneficiary_rank,fund_release_rank,fund_utilized_rank,beneficiary_density,high_fund_release,high_beneficiary,performance_category
+Andaman And Nicobar,1,10,2806,3548,83,27,22.33,16.56,74.16,5.77,Average,29,27,29,42.75,No,No,Average
+Andhra Pradesh,78301,44950,121026,252233,13651,31,425.75,679.79,159.67,-254.04,Excellent,15,21,19,18.48,No,Yes,Average
+Arunachal Pradesh,0,34642,1028,36232,2119,1,376.04,422.05,112.24,-46.01,Excellent,25,23,23,17.1,No,No,Average
+Assam,180918,411981,753671,2272788,2683,2,23686.98,24301.88,102.6,-614.9,Excellent,8,1,4,847.11,Yes,Yes,High Performer
+Bihar,733742,99736,3391215,5069485,8536,3,19572.62,33025.0,168.73,-13452.38,Excellent,3,3,1,593.89,Yes,Yes,High Performer
+Chhattisgarh,289906,756474,823451,1875585,11775,4,7703.99,9827.13,127.56,-2123.14,Excellent,10,8,10,159.29,Yes,Yes,High Performer
+Dadra And Nagar Haveli And Daman And Diu,89,11857,74,12034,35,28,16.12,110.8,687.34,-94.68,Excellent,27,29,27,343.83,No,No,Average
+Goa,23,139,279,499,191,5,0.0,1.98,0.0,-1.98,Poor,31,31,31,2.61,No,No,Average
+Gujarat,42270,427139,419839,913136,14530,6,3653.56,5274.51,144.37,-1620.95,Excellent,13,12,11,62.84,Yes,Yes,High Performer
+Haryana,49940,765,36775,100482,6610,7,191.02,248.91,130.31,-57.89,Excellent,21,25,26,15.2,No,No,Average
+Himachal Pradesh,35034,9667,52588,99716,3661,8,1052.29,876.16,83.26,176.13,Good,22,16,17,27.24,Yes,No,Average
+Jammu And Kashmir,37158,110040,191985,342413,4366,9,3474.43,3725.51,107.23,-251.08,Excellent,14,13,14,78.43,Yes,Yes,High Performer
+Jharkhand,358053,686332,896018,2222166,4585,10,6835.27,11293.72,165.23,-4458.45,Excellent,9,9,8,484.66,Yes,Yes,High Performer
+Karnataka,196014,111277,935335,1352168,6101,32,632.56,915.64,144.75,-283.08,Excellent,11,19,16,221.63,No,Yes,Average
+Kerala,41402,10209,115522,236691,978,11,138.42,334.59,241.72,-196.17,Excellent,16,26,24,242.02,No,Yes,Average
+Ladakh,1,2970,0,2978,193,34,21.99,20.6,93.68,1.39,Good,30,28,28,15.43,No,No,Average
+Lakshadweep,0,70,0,70,10,29,0.0,0.01,0.0,-0.01,Poor,32,31,32,7.0,No,No,Average
+Madhya Pradesh,1002768,2060311,2665880,5828889,23516,12,19969.61,28124.72,140.84,-8155.11,Excellent,2,2,2,247.87,Yes,Yes,High Performer
+Maharashtra,492606,1048354,3141182,4937607,28967,13,10001.76,13711.25,137.09,-3709.49,Excellent,4,6,7,170.46,Yes,Yes,High Performer
+Manipur,4413,41974,45521,103396,3160,14,653.12,544.6,83.38,108.52,Good,20,18,20,32.72,No,No,Average
+Meghalaya,1055,174970,1487,188119,6448,15,1978.91,2089.92,105.61,-111.01,Excellent,18,15,15,29.17,Yes,No,High Performer
+Mizoram,118,29662,2,29849,931,16,258.5,273.72,105.89,-15.22,Excellent,26,24,25,32.06,No,No,Average
+Nagaland,1,48847,208,49177,1257,17,476.38,529.93,111.24,-53.55,Excellent,24,20,21,39.12,No,No,Average
+Odisha,511710,982514,1261441,2782233,6816,18,10652.47,16345.25,153.44,-5692.78,Excellent,6,5,6,408.19,Yes,Yes,High Performer
+Puducherry,0,0,0,0,15,30,0.0,0.0,0.0,0.0,Poor,33,31,33,0.0,No,No,Average
+Punjab,86480,645,22827,111950,13584,19,411.63,448.91,109.06,-37.28,Excellent,19,22,22,8.24,No,No,Average
+Rajasthan,537567,853537,1058664,2587066,11356,20,5979.04,10864.07,181.7,-4885.03,Excellent,7,10,9,227.81,Yes,Yes,High Performer
+Sikkim,885,4366,5681,11021,251,21,3.12,4.71,150.96,-1.59,Excellent,28,30,30,43.91,No,No,Average
+Tamil Nadu,464293,34641,696612,1229013,12525,22,3207.25,4918.06,153.34,-1710.81,Excellent,12,14,12,98.12,Yes,Yes,High Performer
+Telangana,0,0,0,0,8831,33,0.0,0.0,0.0,0.0,Poor,33,31,33,0.0,No,No,Average
+Tripura,34434,99277,58279,208454,1200,23,4228.06,4350.87,102.9,-122.81,Excellent,17,11,13,173.71,Yes,Yes,High Performer
+Uttar Pradesh,1238910,54599,1765718,3452196,60234,24,16086.31,26961.4,167.6,-10875.09,Excellent,5,4,3,57.31,Yes,Yes,High Performer
+Uttarakhand,22438,4026,36757,72909,8113,25,685.72,738.66,107.72,-52.94,Excellent,23,17,18,8.99,Yes,No,High Performer
+West Bengal,2198616,609468,1756553,6811144,3354,26,9498.38,16679.8,175.61,-7181.42,Excellent,1,7,5,2030.75,Yes,Yes,High Performer
